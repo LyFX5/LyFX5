@@ -3,7 +3,7 @@
 Eduard Zakharian
 
 I design and build mathematical models and interactive simulators for complex systems.
-I specialize in turning abstract concepts into testable prototypes.
+I translate scientific research into practice.
 
 I develop:
 - Physics-informed simulations for energy systems (microgrids, RES, hydrogen),
