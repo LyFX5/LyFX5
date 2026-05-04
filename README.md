@@ -1,7 +1,5 @@
 ## Introducing
 
-Eduard Zakharian
-
 I design and build:
 - Physics-informed simulations for energy systems (microgrids, RES, hydrogen),
 - Control strategies and optimization pipelines (ML, RL, classical and hybrid),
